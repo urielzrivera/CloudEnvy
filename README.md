@@ -4,6 +4,11 @@
 
 CloudEnvy is an Automation Script written to help with the initial steps of recon when starting a new Bug Bounty Program or (soon) a quick way to check for any changes made to a program recently participated in. 
 
+### Performs:
+* Subdomain enumeration.
+* Directory fuzzing.
+* Building wordlists from discovered assets/endpoints.
+
 ## Requirements
 
 * Python3 & latest versions. (Hasn't been tested on older versions)
