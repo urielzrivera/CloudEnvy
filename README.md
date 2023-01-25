@@ -4,7 +4,7 @@
 
 CloudEnvy is an Automation Script written to help with the initial steps of recon when starting a new Bug Bounty Program or (soon) a quick way to check for any changes made to a program recently participated in. 
 
-![Diagram](https://github.com/urielzrivera/CloudEnvy/assets/images/diagram.png)
+![Diagram](https://github.com/urielzrivera/CloudEnvy/assets/images/diagram.PNG)
 
 ## Requirements
 
