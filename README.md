@@ -9,7 +9,12 @@ CloudEnvy is an Automation Script written to help with the initial steps of reco
 ## Requirements
 
 * Python3 & latest versions. (Hasn't been tested on older versions)
+* ffuf
+* wfuzz
+* dirsearch or Daniel Miessler Wordlists
 
 ## To Do:
 
+* Add python file for fuzzing for parameters, services, and environments.
 * Add python file for checking and isolating changes
+* Add python flie for forwarding Changes to Discord API
